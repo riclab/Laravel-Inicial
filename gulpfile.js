@@ -24,6 +24,7 @@ elixir(function(mix) {
         '../public/assets/css/app.css',
     ], 'public/assets/build.css', 'node_modules/');
 
+  //javascript
   mix
     .scripts([
         'jquery/dist/jquery.min.js',
