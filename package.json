@@ -12,7 +12,6 @@
     "eonasdan-bootstrap-datetimepicker": "^4.15.35",
     "font-awesome": "^4.4.0",
     "jquery": "^2.1.4",
-    "leaflet": "^0.7.7",
     "laravel-elixir": "^3.0.0"
   }
 }
