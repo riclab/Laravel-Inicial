@@ -21,7 +21,6 @@ elixir(function(mix) {
         'font-awesome/css/font-awesome.min.css',
         'datatables-bootstrap3-plugin/media/css/datatables-bootstrap3.min.css',
         'eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css',
-        'leaflet/dist/leaflet.css',
         '../public/assets/css/app.css',
     ], 'public/assets/build.css', 'node_modules/');
 
@@ -34,7 +33,6 @@ elixir(function(mix) {
         'bootbox/bootbox.min.js',
         'eonasdan-bootstrap-datetimepicker/node_modules/moment/min/moment-with-locales.min.js',
         'eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js',
-        'leaflet/dist/leaflet.js',
         '../resources/assets/scripts/app.js',
     ], 'public/assets/build.js', 'node_modules/');
 
