@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'permission_groups' => 'Grupos de Permisos',
+    'create_new_permission_group' => 'Crear un nuevo grupo de permisos',
+    'create' => 'Crear',
+    'edit' => 'Editar',
+    'show' => 'Ver',
+    'revisions' => 'Revisiones',
+    'duplicate' => 'Duplicar',
+    'delete' => 'Eliminar',
+    'submit' => 'Enviar',
+    'list_all' => 'Listar Todo',
+    'update_permission_group' => 'Actualizar el grupo de permisos: :name',
+    'view_revisions' => 'Ver permiso del grupo de permisos: :name',
+    'created_this' => 'Crear este grupo de permisos',
+    'changed_from_to' => 'Cambiar ":field" de ":from" a ":to"',
+    'view_permission_group' => 'Ver grupo de permisos: :name',
+    'created' => 'Grupo de permisos :name creado',
+    'updated' => 'Grupo de permisos :name actualizado',
+    'deleted' => 'Grupo de permisos :name eliminado',
+    'name' => 'Nombre',
+    'created_at' => 'Creado el',
+    'updated_at' => 'Actualizado el',
+];
